@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "명심님",
+  "license": "ISC",
+  "description": "연락처 등록,조회,수정,삭제 앱",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
