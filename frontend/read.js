@@ -30,4 +30,4 @@ async function logJSONData() {
     }
   }
   
-
+X-2text-center">
